@@ -27,3 +27,4 @@ langgenius/dify-api:1.8.0
 langgenius/dify-plugin-daemon:0.2.0-local
 vastdata/vastbase-vector
 milvusdb/milvus:v2.5.15
+langgenius/dify-web:1.8.0

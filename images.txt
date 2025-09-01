@@ -23,3 +23,7 @@ matrixorigin/matrixone:2.1.1
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
+langgenius/dify-api:1.8.0
+langgenius/dify-plugin-daemon:0.2.0-local
+vastdata/vastbase-vector
+milvusdb/milvus:v2.5.15

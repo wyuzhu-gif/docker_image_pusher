@@ -1,1 +1,2 @@
 --platform=linux/amd64 nginx:stable-perl
+--platform=linux/arm64/v8 nginx:stable-perl

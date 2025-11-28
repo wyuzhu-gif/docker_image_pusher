@@ -1,1 +1,1 @@
-langgenius/dify-web:1.8.0
+--platform=linux/amd64 nginx:stable-perl

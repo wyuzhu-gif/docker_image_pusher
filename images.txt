@@ -1,2 +1,9 @@
---platform=linux/amd64 nginx:stable-perl
---platform=linux/arm64/v8 nginx:stable-perl
+mysql:8.4.5
+bitnamilegacy/redis:8.0
+bitnamilegacy/elasticsearch:8.18.0
+minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
+bitnamilegacy/etcd:3.5
+milvusdb/milvus:v2.5.10
+nsqio/nsq:v1.2.1
+cozedev/coze-studio-server:latest
+cozedev/coze-studio-web:latest

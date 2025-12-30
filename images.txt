@@ -1,11 +1,2 @@
-registry.cn-hangzhou.aliyuncs.com/lazyllm/lazycraft-back:latest
-registry.cn-hangzhou.aliyuncs.com/lazyllm/pd:v8.5.0
-registry.cn-hangzhou.aliyuncs.com/lazyllm/tikv:v8.5.0
-registry.cn-hangzhou.aliyuncs.com/lazyllm/tidb:v8.5.0
-registry.cn-hangzhou.aliyuncs.com/lazyllm/redis:6-alpine
-registry.cn-hangzhou.aliyuncs.com/lazyllm/mcp-echarts-mcp-echarts-sse:latest
-registry.cn-hangzhou.aliyuncs.com/lazyllm/open-web-search:v1.1.5.1
-registry.cn-hangzhou.aliyuncs.com/lazyllm/minio:RELEASE.2025-07-23T15-54-02Z
-registry.cn-hangzhou.aliyuncs.com/lazyllm/mc:RELEASE.2025-07-21T05-28-08Z
-registry.cn-hangzhou.aliyuncs.com/lazyllm/nginx:latest
 registry.cn-hangzhou.aliyuncs.com/lazyllm/lazyllm:0.6.2
+registry.cn-hangzhou.aliyuncs.com/lazyllm/lazycraft-front:latest

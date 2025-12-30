@@ -1,6 +1,6 @@
-hangzhou.aliyuncs.com/lazyllm/lazycraft-back:latest
-hangzhou.aliyuncs.com/lazyllm/pd:v8.5.0
-hangzhou.aliyuncs.com/lazyllm/tikv:v8.5.0
+registry.cn-hangzhou.aliyuncs.com/lazyllm/lazycraft-back:latest
+registry.cn-hangzhou.aliyuncs.com/lazyllm/pd:v8.5.0
+registry.cn-hangzhou.aliyuncs.com/lazyllm/tikv:v8.5.0
 registry.cn-hangzhou.aliyuncs.com/lazyllm/tidb:v8.5.0
 registry.cn-hangzhou.aliyuncs.com/lazyllm/redis:6-alpine
 registry.cn-hangzhou.aliyuncs.com/lazyllm/mcp-echarts-mcp-echarts-sse:latest

@@ -1,2 +1,4 @@
-registry.cn-hangzhou.aliyuncs.com/lazyllm/lazycraft-front:latest
-registry.cn-hangzhou.aliyuncs.com/lazyllm/lazyllm:0.6.2
+registry.cn-hangzhou.aliyuncs.com/lazyllm/lazycraft-back:dev-latest
+registry.cn-hangzhou.aliyuncs.com/lazyllm/lazycraft-back:dev-latest
+registry.cn-hangzhou.aliyuncs.com/lazyllm/lazycraft-back:dev-latest
+registry.cn-hangzhou.aliyuncs.com/lazyllm/lazycraft-front:dev-latest

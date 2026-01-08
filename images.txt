@@ -1,3 +1,4 @@
+postgres:18
 langgenius/dify-api:1.11.2
 langgenius/dify-api:1.11.2
 langgenius/dify-api:1.11.2

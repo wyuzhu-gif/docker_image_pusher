@@ -1,5 +1,1 @@
-matrixorigin/matrixone:2.1.1
-docker.elastic.co/elasticsearch/elasticsearch:8.14.3
-docker.elastic.co/kibana/kibana:8.14.3
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
-busybox:latest
+hdxin2002/ultrarag:v0.3.0-base-gpu

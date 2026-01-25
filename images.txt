@@ -1,1 +1,2 @@
-hdxin2002/ultrarag:v0.3.0-base-gpu
+
+hdxin2002/ultrarag:v0.3.0-base-cpu

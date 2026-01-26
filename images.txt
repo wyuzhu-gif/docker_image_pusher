@@ -1,1 +1,12 @@
-infiniflow/ragflow:v0.23.1
+elasticsearch:8.11.3
+hub.icert.top/opensearchproject/opensearch:2.19.1
+infiniflow/infinity:v0.7.0-dev1
+oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
+oceanbase/seekdb:latest
+infiniflow/sandbox-executor-manager:latest
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+valkey/valkey:8
+infiniflow/text-embeddings-inference:cpu-1.8
+infiniflow/text-embeddings-inference:1.8
+kibana:8.11.3

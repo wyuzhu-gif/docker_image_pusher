@@ -1,5 +1,5 @@
 elasticsearch:8.11.3
-hub.icert.top/opensearchproject/opensearch:2.19.1
+opensearchproject/opensearch:2.19.1
 infiniflow/infinity:v0.7.0-dev1
 oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
 oceanbase/seekdb:latest

@@ -1,1 +1,1 @@
-alexsuntop/mineru:3.1.0
+jianjungki/mineru:latest

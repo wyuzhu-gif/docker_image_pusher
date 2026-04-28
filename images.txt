@@ -1,1 +1,2 @@
 jianjungki/mineru:latest
+quincyqiang/mineru:0.3-models

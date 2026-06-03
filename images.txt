@@ -1,2 +1,1 @@
-
-alexsuntop/mineru:3.1.0
+--platform=linux/arm64 alexsuntop/mineru:3.1.0
